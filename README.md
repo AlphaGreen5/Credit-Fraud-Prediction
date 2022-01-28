@@ -1,4 +1,4 @@
-# Credit-Risk-Prediction
+# Credit-Fraud-Prediction
 
 The data is about the loan status of the customers if they have been passed or not.
 
